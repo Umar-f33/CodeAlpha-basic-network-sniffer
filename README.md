@@ -1,4 +1,4 @@
-# Basic Network Sniffer (Task 1) 🔍
+# Basic Network Sniffer
 
 A lightweight, educational packet sniffing tool written in Python using the `scapy` library. This script captures network packets on a specified network adapter, parses protocol layers (IP, TCP, UDP, ICMP), and prints a safe hex/text preview of raw payloads.
 
